@@ -196,7 +196,7 @@ CREATE TABLE user_interactions (
 
 ```
 aime-knowledge-universe/
-├── data/                     # SQLite databases (2.7GB of content)
+├── data/                     # SQLite databases (3.7MB of content)
 │   ├── aime-data-lake.db    # Main content database
 │   ├── video.db             # YouTube video data
 │   └── aime_knowledge.db    # Knowledge validation
@@ -364,7 +364,7 @@ docker run -p 3000:3000 aime-knowledge-universe
 - **5 Action VISAs** for real-world impact pathways
 - **52 Countries** represented in global knowledge base
 - **250+ IMAGI-NATION TV Episodes** with full transcripts
-- **3 Operational Databases** with 2.7GB of structured content
+- **3 Operational Databases** with 3.7MB of structured content
 - **Complete API** with 20+ endpoints for all platform features
 
 ---
